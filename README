@@ -1,3 +1,37 @@
 ####Playing Cards#####
 
 Simple, playing cards game writting in PHP.
+To execute the script : 
+run: php index.php <user_input>
+
+Result:
+
+run: php index.php 2 
+C-A,H-X,S-8,C-6,D-Q,H-8,D-8,H-2,H-Q,C-X,D-5,H-A,S-Q,C-9,S-5,S-K,D-A,H-9,C-7,D-4,D-X,H-7,S-4,S-X,H-J,D-9
+C-Q,S-J,S-9,S-A,D-K,S-3,S-2,H-6,C-4,S-6,D-7,D-6,C-2,D-3,H-5,D-J,H-K,C-3,H-3,D-2,C-5,C-J,C-K,S-7,H-4,C-8
+
+run: php index.php 3
+C-4,S-4,C-5,S-2,C-8,S-9,C-A,D-X,S-6,D-J,S-5,D-3,H-2,H-6,D-K,H-X,H-A
+H-4,D-5,C-6,D-6,D-4,C-X,D-7,D-Q,H-K,D-2,S-X,D-A,S-Q,S-3,C-3,C-7,H-3
+S-A,H-7,S-J,C-K,H-5,H-Q,D-8,S-K,C-Q,H-8,H-9,S-8,C-9,D-9,C-J,S-7,H-J
+
+run: php index.php 4
+S-4,C-2,D-J,H-Q,D-7,S-A,D-4,C-Q,D-K,H-6,C-X,C-9,C-8
+H-X,H-A,H-K,S-5,C-6,D-8,S-6,C-4,C-K,H-2,D-Q,D-3,C-7
+D-2,D-X,H-4,H-8,S-8,H-7,C-3,C-5,H-3,S-K,S-9,S-Q,H-J
+S-J,D-9,D-5,S-3,S-X,H-9,S-7,S-2,D-A,C-J,D-6,H-5,C-A
+
+run: php index.php 5
+H-2,S-5,C-8,S-2,S-A,D-X,S-Q,C-J,H-Q,H-J
+D-4,C-4,D-7,H-9,D-2,S-6,D-6,C-3,H-A,C-9
+C-7,S-9,H-6,S-K,C-2,D-8,H-3,D-Q,D-A,C-Q
+S-8,D-9,S-J,S-3,S-7,C-X,D-3,H-X,D-K,C-A
+S-X,H-8,C-K,H-5,H-4,D-J,D-5,S-4,C-6,H-K
+
+run: php index.php 6
+C-6,S-5,D-7,D-5,C-3,C-2,H-6,H-2
+S-3,C-A,D-8,H-K,H-A,D-2,S-2,H-7
+H-9,C-Q,S-9,S-4,D-K,S-7,S-A,C-9
+D-A,H-X,C-5,H-3,S-Q,D-Q,D-J,D-9
+H-4,D-X,C-8,H-Q,H-5,H-J,D-6,D-3
+S-K,D-4,S-J,S-8,C-J,S-X,C-7,C-4
